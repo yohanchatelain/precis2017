@@ -1,0 +1,12 @@
+name: precis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=2.7
+  - libgcc
+  - nomkl
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
